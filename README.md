@@ -20,3 +20,5 @@ This app lets you view different types of cryptocurrencies, along with their pri
 Data provided by Coingecko. © 2025 Coingecko
 
 # Preview
+
+https://github.com/user-attachments/assets/056ebda5-ba07-4324-9467-a1d1cc3b68c1
